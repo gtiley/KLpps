@@ -5,9 +5,7 @@ There are 6 folders with a Perl script
 To go from alignments in fasta format to p-values to evaluate model adequacy, just dump your fastas in 1_empiricalMB, then run the Perl script in each folder in the order as numbered
 
 This assumes you have the following software compiled
-Mr Bayes
-SeqGen
-Galax
+Mr Bayes, Seq-Gen, Galax
 - Galax depends on the boost library
 
 You will want to supply the correct path to these programs/libraries by editing the scripts accordingly
